@@ -1,2 +1,3 @@
-1 - "cd public"
-2 - "php -S 127.0.0.1:8000"
+1 - "composer install" <br>
+2 - "cd public" <br>
+3 - "php -S 127.0.0.1:8000"
